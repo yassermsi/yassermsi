@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yassermsi
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning how to create websites
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me Yassermasri@duck.com
 - 😄 Pronouns: He/Him
